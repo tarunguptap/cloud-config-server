@@ -1,6 +1,6 @@
-## Lab 3 - Create a Spring Cloud Config Server and Client
+## Create a Spring Cloud Config Server
 
-**Part 1 - Config Server:**
+**Part 2 - Config Server:**
 
 1. Create a new Spring Boot application.  Name the project "cloud-config-server”, and use this value for the Artifact.  Use Jar packaging and the latest versions of Java.  Use a version of Boot > 2.0.x.   select Cloud Config dependency.
 
